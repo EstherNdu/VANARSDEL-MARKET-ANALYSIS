@@ -14,3 +14,8 @@ analysis of Vanarsdel and the Manufacturers Analysis from 2013 - 2020.
 * Vanarsdel market analysis by state
 * Total Revenue by Country
 * Category,Revenue and Growth percentage of Top 5 manufacturers
+* Revenue and growth percentage by year
+* Revenue and PLY revenue
+
+# Tool Used
+Power BI
