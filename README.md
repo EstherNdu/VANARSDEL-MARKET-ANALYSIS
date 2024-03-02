@@ -1,4 +1,6 @@
 # VANARSDEL-MARKET-ANALYSIS
+![Screenshot (12)](https://github.com/EstherNdu/VANARSDEL-MARKET-REPORT/assets/128849587/41813677-5781-4102-973a-bf852d93076d)
+
 
 # Brief Introduction
 Carried out exploratory analysis using Power BI to determine the market analysis of a particular 
@@ -19,3 +21,16 @@ analysis of Vanarsdel and the Manufacturers Analysis from 2013 - 2020.
 
 # Tool Used
 Power BI
+
+# Processes
+* Imported the data from Excel
+* Cleaned the data - checked for errors and removed duplicates
+* Modeled the data
+* Created a calendar table
+* Wrote some DAX measures
+* Analysis
+
+
+# Key Insights
+
+![Screenshot (53)](https://github.com/EstherNdu/VANARSDEL-MARKET-REPORT/assets/128849587/f95435e9-f514-4972-bb2b-10438a7c7932)
