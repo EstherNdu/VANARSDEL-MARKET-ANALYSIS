@@ -1,8 +1,5 @@
 # VANARSDEL-MARKET-ANALYSIS
 
-![Screenshot -cr1](https://github.com/EstherNdu/VANARSDEL-MARKET-REPORT/assets/128849587/a9f5ebf7-dcb5-4cf9-a09a-04ea7b6eaa7e)
-
-
 
 # Brief Introduction
 Carried out exploratory analysis using Power BI to determine the market analysis of a particular 
@@ -66,6 +63,8 @@ Power BI
 * In 2020 Vanarsdel generated revenue of $1.10bn which surpassed the target (PLY Revenue) of $894.31M
 
   ![Screenshot (60)](https://github.com/EstherNdu/VANARSDEL-MARKET-REPORT/assets/128849587/911812f7-f30d-45ae-a89e-2bd2bca4395c)
+
+  ![Screenshot -cr1](https://github.com/EstherNdu/VANARSDEL-MARKET-REPORT/assets/128849587/a9f5ebf7-dcb5-4cf9-a09a-04ea7b6eaa7e)
 
 # Recommendation
 Although Vanarsdel had the highest Revenue between 2013- 2020, Currus had a higher growth percentage than him. 
