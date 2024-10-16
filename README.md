@@ -66,6 +66,9 @@ Power BI
 
   ![Screenshot -cr1](https://github.com/EstherNdu/VANARSDEL-MARKET-REPORT/assets/128849587/a9f5ebf7-dcb5-4cf9-a09a-04ea7b6eaa7e)
 
+![Vanarsdel MArket analysis Copy](https://github.com/user-attachments/assets/0ef5da6b-9f56-4b63-b3c5-ecfed1d0dfe9)
+
+
 # Recommendation
 Although Vanarsdel had the highest Revenue between 2013- 2020, Currus had a higher growth percentage than him. 
 Therefore, I would recommmend that Vanarsdel re-analyzes his market strategy and market positioning to identify areas for improvement and growth.
